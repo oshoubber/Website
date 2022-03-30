@@ -8,7 +8,7 @@ const Index = () => {
       <NavBar />
       <Center className={styles.HomeTextName}>
         <Text w="100%" fontSize="8xl" fontWeight="bold">
-          Hi, I'm <span style={{color: '#38B2AC'}}>Osama</span>
+          Hey, I'm <span style={{color: '#38B2AC'}}>Osama</span>
         </Text>
       </Center>
       <Particles/>
